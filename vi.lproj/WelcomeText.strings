@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>TEXT_PLACEHOLDER</key>
-	   <string>Enter your text here</string>
+	   <string>Hãy nhập đoạn văn bản của bạn vào đây</string>
 
 	<key>WELCOME_TITLE</key>
-	   <string>Welcome Text</string>
+	   <string>Văn Bản Chào Mừng</string>
 </dict>
 </plist>

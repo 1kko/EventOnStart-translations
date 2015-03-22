@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>TEXT_PLACEHOLDER</key>
-	   <string>Enter your text here</string>
+	   <string>Introduce tu texto aquí</string>
 
 	<key>WELCOME_TITLE</key>
-	   <string>Welcome Text</string>
+	   <string>Texto de Bienvenida</string>
 </dict>
 </plist>

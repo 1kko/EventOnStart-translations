@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENABLED</key>
+	   <string>تفعيل</string>
+
+	<key>VIBRATION_FOOTERTEXT</key>
+	   <string>يجعل الأيفون يهتز عند بدء التشغيل.</string>
+
+	<key>VIBRATION</key>
+	   <string>الإهتزاز</string>
+
+	<key>FLASH_FOOTERTEXT</key>
+	   <string>يجعل فلاش الكاميرا يومض عند بدء تشغيل الأيفون.</string>
+
+	<key>FLASH</key>
+	   <string>فلاش الكاميرا</string>
+
+	<key>SOUND_FOOTERTEXT</key>
+	   <string>يُصدر صوتاً عند بدء التشغيل, ويمكن تغيير الصوت من 'قائمة الأصوات'.</string>
+
+	<key>SOUND</key>
+	   <string>الصوت</string>
+
+	<key>SOUNDLIST</key>
+	   <string>قائمة الأصوات</string>
+
+	<key>WELCOME_FOOTERTEXT</key>
+	   <string>هذا سيُظهر رسالة. يمكنك تغيير النص من قائمة 'نص الترحيب'.</string>
+
+	<key>WELCOME</key>
+	   <string>رسالة الترحيب</string>
+
+	<key>WELCOME_MENU</key>
+	   <string>نص الترحيب</string>
+
+	<key>GITHUB</key>
+	   <string>شاهد الكود على موقع Github.</string>
+
+	<key>TWITTER</key>
+	   <string>تابعوني على التويتر.</string>
+
+	<key>EMAIL</key>
+	   <string>إيميل الدعم</string>
+
+	<key>REDDIT</key>
+	   <string>تابعوني على الـ Reddit (/u/Ziph0n)</string>
+
+	<key>DONATE_FOOTERTEXT</key>
+	   <string>إذا أعجبك هذا التويك, يرجى التبرع بمجرد الضغط على هذا الزر.</string>
+
+	<key>DONATE</key>
+	   <string>التبرع</string>
+
+	<key>CREDITS</key>
+	   <string>الشُكر</string>
+
+	<key>CREATEDBYME</key>
+	   <string>الشُكر من Ziph0n</string>
+
+	<key>DESCRIPTION</key>
+	   <string>بدء حدث عند بدء التشغيل!</string>
+
+	<key>OPTIONS</key>
+	   <string>خيارات</string>
+
+	<key>ABOUT</key>
+	   <string>حول</string>
+
+	<key>PREVIEW</key>
+	   <string>معاينة</string>
+
+	<key>SHARE</key>
+	   <string>أنا استعمل تويك #EventOnStart المبرمج من قِبل Ziph0n إحصل عليه الآن.</string>
+	   
+	<key>DISMISS</key>
+	   <string>رفض</string>
+</dict>
+</plist>
