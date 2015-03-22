@@ -25,5 +25,8 @@
 
 	<key>TITLE_CREDITSPAGE</key>
 	   <string>Credits</string>
+
+	<key>TRANSLATORS</key>
+		<string>Dịch giả</string>
 </dict>
 </plist>

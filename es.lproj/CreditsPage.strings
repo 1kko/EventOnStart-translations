@@ -25,5 +25,8 @@
 
 	<key>TITLE_CREDITSPAGE</key>
 	   <string>Créditos</string>
+
+	<key>TRANSLATORS</key>
+		<string>Traductores</string>
 </dict>
 </plist>

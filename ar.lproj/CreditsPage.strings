@@ -25,5 +25,8 @@
 
 	<key>TITLE_CREDITSPAGE</key>
 	   <string>الشُكر</string>
+
+	<key>TRANSLATORS</key>
+	   <string>المترجمين</string>
 </dict>
 </plist>

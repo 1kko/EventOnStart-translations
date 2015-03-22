@@ -25,5 +25,8 @@
 
 	<key>TITLE_CREDITSPAGE</key>
 	   <string>Multumiri</string>
+
+	<key>TRANSLATORS</key>
+		<string>Traducători</string>
 </dict>
 </plist>
