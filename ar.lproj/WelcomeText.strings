@@ -3,9 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>TEXT_PLACEHOLDER</key>
-	   <string>أدخل أي نص</string>
-
+	<string>أدخل أي نص ليكون نص ترحيب...</string>
 	<key>WELCOME_TITLE</key>
-	   <string>نص الترحيب</string>
+	<string>نص الترحيب</string>
 </dict>
 </plist>
