@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>TWITTERDESIGNER_FOOTERTEXT</key>
-	   <string>He made the beautiful icon of EventOnStart.</string>
+	   <string>He designed the beautiful icon of EventOnStart.</string>
 
 	<key>TWITTERIDEA_FOOTERTEXT</key>
 	   <string>He gave me the idea to transform my tweak VibrateOnStart into EventOnStart.</string>
@@ -12,16 +12,16 @@
 	   <string>My private beta tester :)</string>
 
 	<key>TWITTERHELP1_FOOTERTEXT</key>
-	   <string>He taught me how to compile a tweak for 64 bits devices.</string>
+	   <string>He taught me how to compile a tweak for 64-bit devices.</string>
 
 	<key>TWITTERHELP2_FOOTERTEXT</key>
-	   <string>He asked me if he can send me some helpful code for my tweak</string>
+	   <string>He asked me if he could help me by sending some useful code for my tweak</string>
 
 	<key>REDDITJAILBREAKDEVELOPERS_FOOTERTEXT</key>
 	   <string>Some cool developers of this subreddit helped me a ton to do this tweak. (This is my first one)</string>
 
 	<key>REDDITJAILBREAK_FOOTERTEXT</key>
-	   <string>I want to say a big 'Thank You!' to each user of /r/jailbreak. This subreddit is a really cool jailbreak community!</string>
+	   <string>I want to say a big 'Thank You!' to each user of /r/jailbreak. This subreddit is a really awesome jailbreak community!</string>
 
 	<key>TITLE_CREDITSPAGE</key>
 	   <string>Credits</string>
