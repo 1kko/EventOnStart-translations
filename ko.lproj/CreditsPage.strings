@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TWITTERDESIGNER_FOOTERTEXT</key>
+	   <string>EventOnStart를 위해 아름다운 아이콘을 디자인 해 주셨습니다.</string>
+
+	<key>TWITTERIDEA_FOOTERTEXT</key>
+	   <string>VibrateOnStart를 EventOnStart로 바꿀 수 있는 아이디어를 제공해 주셨습니다.</string>
+
+	<key>TWITTERBETATESTER_FOOTERTEXT</key>
+	   <string>제 개인적인 베타 테스터 입니다. ^^</string>
+
+	<key>TWITTERHELP1_FOOTERTEXT</key>
+	   <string>64-bit 컴파일을 위해 사용한 트윅들에 대한 도움을 주셨습니다.</string>
+
+	<key>TWITTERHELP2_FOOTERTEXT</key>
+	   <string>유용한 코드를 제안하시면서 이 트윅에 도움을 주실 수 있는지 여쭤보셨습니다.</string>
+
+	<key>REDDITJAILBREAKDEVELOPERS_FOOTERTEXT</key>
+	   <string>이 서브 레딧에 계신 멋진 개발자 분들이 이 트윅을 개발하는데 많은 도음을 주셨습니다. (이 트윅이 제가 만든 첫번째 트윅입니다)</string>
+
+	<key>REDDITJAILBREAK_FOOTERTEXT</key>
+	   <string>레딧의 /r/jailbreak 에 계신 모든 사용자 분들께 큰 감사를 드리고 싶습니다. 이 서브 레딧은 정말 멋진 커뮤니티인것 같아요!</string>
+
+	<key>TITLE_CREDITSPAGE</key>
+	   <string>크레딧</string>
+
+	<key>TRANSLATORS</key>
+		<string>변역에 참여해주신 분들</string>
+</dict>
+</plist>

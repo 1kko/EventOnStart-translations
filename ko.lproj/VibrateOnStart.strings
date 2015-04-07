@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENABLED</key>
+	   <string>켬</string>
+
+	<key>VIBRATION_FOOTERTEXT</key>
+	   <string>시작시 진동.</string>
+
+	<key>VIBRATION</key>
+	   <string>진동</string>
+
+	<key>FLASH_FOOTERTEXT</key>
+	   <string>시작시 플래시.</string>
+
+	<key>FLASH</key>
+	   <string>플래시</string>
+
+	<key>SOUND_FOOTERTEXT</key>
+	   <string>시작할 때 사운드 재생. 메뉴의 '사운드 목록'에서 사운드를 선택할 수 있습니다.</string>
+
+	<key>SOUND</key>
+	   <string>사운드</string>
+
+	<key>SOUNDLIST</key>
+	   <string>사운드 목록</string>
+
+	<key>WELCOME_FOOTERTEXT</key>
+	   <string>시작시 팝업 메세지. 메뉴의 '팝업 텍스트'에서 변경 할 수 있습니다.</string>
+
+	<key>WELCOME</key>
+	   <string>팝업 텍스트</string>
+
+	<key>WELCOME_MENU</key>
+	   <string>팝업 텍스트</string>
+
+	<key>GITHUB</key>
+	   <string>GitHub에서 소스 보기</string>
+
+	<key>TWITTER</key>
+	   <string>Twitter에서 팔로우 하기</string>
+
+	<key>EMAIL</key>
+	   <string>이메일 문의</string>
+
+	<key>REDDIT</key>
+	   <string>Reddit에서 문의하기 (/u/Ziph0n)</string>
+
+	<key>DONATE_FOOTERTEXT</key>
+	   <string>제 앱이 마음에 드신다면 이 버튼을 눌러 기부하실 수 있습니다. ^^;</string>
+
+	<key>DONATE</key>
+	   <string>기부</string>
+
+	<key>CREDITS</key>
+	   <string>크레딧</string>
+
+	<key>CREATEDBYME</key>
+	   <string>Ziph0n 제작</string>
+
+	<key>DESCRIPTION</key>
+	   <string>시작시 이벤트를 설정하실 수 있습니다!</string>
+
+	<key>OPTIONS</key>
+	   <string>옵션</string>
+
+	<key>ABOUT</key>
+	   <string>정보</string>
+
+	<key>PREVIEW</key>
+	   <string>미리보기</string>
+
+	<key>SHARE</key>
+	   <string>Cydia에서 Ziph0n이 만든 #EventOnStart를 사용하고 있는데 꽤 좋네요. 받아보세요!</string>
+	   
+	<key>DISMISS</key>
+	   <string>취소</string>
+</dict>
+</plist>

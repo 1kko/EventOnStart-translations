@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TEXT_PLACEHOLDER</key>
+	   <string>이곳에 텍스트를 입력 하세요</string>
+
+	<key>WELCOME_TITLE</key>
+	   <string>반갑습니다</string>
+</dict>
+</plist>
